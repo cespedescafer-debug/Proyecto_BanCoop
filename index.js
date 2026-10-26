@@ -3,3 +3,6 @@ console.log("Bienvenido al sistema del Banco BanCoop");
 
 /**2do cambio - Mostrar Saldo **/
 console.log("Consulta de saldo: $500.00");
+
+// Modulo de Auditoria BanCoop IT
+console.log("Auditoria de seguridad iniciada correctamente.");
